@@ -1,0 +1,4 @@
+[
+    { "keys": ["ctrl+alt+right"], "command": "select_next_quotes", "args": {"char": "\"", "move_forward": true, "jumps": 2}},
+    { "keys": ["ctrl+alt+left"], "command": "select_next_quotes", "args": {"char": "\"", "move_forward": false, "jumps": 2}}
+]

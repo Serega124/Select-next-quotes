@@ -1,0 +1,20 @@
+[
+  {
+    "caption": "Select next double quotes",
+    "command": "select_next_quotes",
+    "args": {
+      "char": "\"",
+      "move_forward": true,
+      "jumps": 2
+    },
+  },
+  {
+    "caption": "Select next single quotes",
+    "command": "select_next_quotes",
+    "args": {
+      "char": "'",
+      "move_forward": true,
+      "jumps": 2
+    }
+  }
+]
